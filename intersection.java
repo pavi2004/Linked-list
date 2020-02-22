@@ -29,7 +29,7 @@ public class Main
     }
     temp.next=newnode;
   }
- void MergeNode(Node one,Node two) 
+ void mergeNode(Node one,Node two) 
 	{ 
     Node temp1 = one;
     Node temp2 = two;
